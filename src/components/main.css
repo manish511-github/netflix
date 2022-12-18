@@ -1,0 +1,125 @@
+.body {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(31, 30, 30, 0.5)),url("https://assets.nflxext.com/ffe/siteui/vlv3/11c803d4-06f3-467e-91f7-0560ce15a396/5ac22c62-f87e-45e3-8746-418d647185c9/VN-en-20210517-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    color: white;
+
+  }
+  .description {
+    padding-top :250px;
+    padding-left :400px;
+    padding-right :400px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 200px;
+   
+
+  }
+  h1{
+    font-size: 65px;
+  }
+  h2{
+    font-weight: normal;
+    font-size: 27px;
+
+  }
+  h2.tag{
+    font-weight: normal;
+    padding-top:20px;
+    font-size: 20px;
+
+  }
+
+.login-body__submit-btnn {
+    background: #e50914;
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 32px;
+    outline: none;
+    padding: 16px;
+    width: 30%;
+  }
+  
+  .login-body__submit-btnn:hover {
+    cursor: pointer;
+  }
+  hr{
+    background: rgba(34, 34, 34, 1);
+    color:rgba(34, 34, 34, 1);
+    border-color:rgba(34, 34, 34, 1);
+    height: 7px;
+  }
+  .down {
+padding-top: 100px;
+padding-left: 100px;
+display: flex;
+justify-content: space-between;
+min-width: 1vw;
+
+    background: rgba(0, 0, 0, 1);
+    background-size: cover;
+    min-height: 45vh;
+    color: white;
+
+  }
+  h1.bold1{
+    font-size: 45px;
+
+  }
+  h2.des1{
+    font-weight: normal;
+    padding-top:20px;
+    font-size: 25px;
+
+  }
+img.display{
+    height:45vh;
+  
+
+}
+.down2 {
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right:180px;
+    display: flex;
+    justify-content: space-between;
+    min-width: 1vw;
+    
+        background: rgba(0, 0, 0, 1);
+        background-size: cover;
+        min-height: 45vh;
+        color: white;
+    
+      }
+      img.display2{
+        padding-right: 200px;
+        height:45vh;
+      
+    
+    }
+    .down3 {
+        padding-top: 100px;
+        padding-left: 100px;
+        padding-right:50px;
+        display: flex;
+        justify-content: space-between;
+        min-width: 1vw;
+        
+            background: rgba(0, 0, 0, 1);
+            background-size: cover;
+            min-height: 45vh;
+            color: white;
+        
+          }
+          img.display3{
+            padding-left:100px;
+           
+            height:45vh;
+          
+        
+        }
