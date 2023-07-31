@@ -11,5 +11,6 @@ A movie web app built using React js , Material UI & TMBI API that allows search
 https://cinemaflix-moviessite.netlify.app/
 
 ##Demo:
-https://github.com/manish511-github/netflix-react/assets/76744029/ffeffab4-a146-49c1-998c-24489e68ca58
+
+https://github.com/manish511-github/netflix-react/assets/76744029/ffeffab4-a146-49c1-998c-24489e68ca58.mp4
 
