@@ -1,5 +1,5 @@
 # Cinemaflix
-A movie web app built using React js , Material UI & OMDb API that allows searching of 1000+ movies and provides information about their plot, IMDB rating, Genre, and Year in which it is published, along with high-quality audio and video trailers.
+A movie web app built using React js , Material UI & TMBI API that allows searching of 1000+ movies and provides information about their plot, Genre, and Year in which it is published, along with high-quality audio and video trailers.
 
 ## Features:
 
