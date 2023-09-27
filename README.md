@@ -8,7 +8,7 @@ A movie web app built using React js , Material UI & TMBI API that allows search
 • Its a full-fledged react application that includes react features like hooks, asynchronous functional, reusable\
    components. Firebase is utilised for User authentication and database management.\
 ## Deployed Site:
-https://cinemaflix-moviessite.netlify.app/
+https://newcinema-movie.netlify.app/
 
 ## Demo:
 
